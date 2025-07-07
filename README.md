@@ -14,5 +14,5 @@ A simple Next.js app that shows 3 quotes based on a topic.
 ```bash
 pnpm install
 pnpm dev
-Deployment
+
 Deployed via Vercel
